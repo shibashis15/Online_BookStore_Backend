@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="org.springframework.cloud:spring-cloud-starter-openfeign" />
+          <option value="org.springframework.cloud:spring-cloud-stream" />
+          <option value="org.springframework.cloud:spring-cloud-stream-binder-rabbit" />
+          <option value="org.springframework.cloud:spring-cloud-starter-config" />
+          <option value="org.springframework.cloud:spring-cloud-starter-netflix-eureka-client" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
